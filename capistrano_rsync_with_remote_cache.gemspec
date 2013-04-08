@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'capistrano_rsync_with_remote_cache'
   s.version     = '0.0.0'
-  s.date        = '2012-04-11828'
+  s.date        = '2013-04-08'
   s.summary     = "Capistrano remote cache"
   s.description = "A gem to keep local cache of your projects"
   s.authors     = ["Joeri Verdeyen"]
